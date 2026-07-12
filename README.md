@@ -8,3 +8,10 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aradhyakapil&show_icons=true&theme=tokyonight" />
 </p>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Aradhyakapil&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Aradhyakapil&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
