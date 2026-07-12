@@ -4,5 +4,5 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,postgres,angular,docker,kubernetes,jenkins,redis,postman&theme=dark" />
 </p>
-
+https://github-readme-stats.vercel.app/api?username=Aradhyakapil
 
