@@ -4,9 +4,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,postgres,angular,docker,kubernetes,jenkins,redis,postman&theme=dark" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aradhyakapil&show_icons=true&theme=tokyonight" />
-</p>
 
 ## 📊 GitHub Stats
 
