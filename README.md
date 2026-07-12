@@ -2,7 +2,7 @@
 
 ## 🚀 Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,postgres,angular,fastapi,docker,kubernetes,jenkins,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,springboot,python,fastapi,postgres,angular,docker,kubernetes,jenkins,postman&theme=dark" />
 </p>
 
 
