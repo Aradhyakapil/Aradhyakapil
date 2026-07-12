@@ -4,5 +4,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,postgres,angular,docker,kubernetes,jenkins,redis,postman&theme=dark" />
 </p>
-![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=Aradhyakapil&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aradhyakapil&show_icons=true&theme=tokyonight" />
+</p>
 
